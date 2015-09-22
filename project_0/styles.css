@@ -76,6 +76,12 @@ h1 {
   max-width: 100%;
   background-color: #000000;
   color: white;
+  /*
+  Referred this for below additions
+
+  http://stackoverflow.com/questions/20064596/adding
+  -background-image-to-div-using-css
+  */
   background-image: url(images/dark_knight_logo.png); 
  background-size: 100%;
  background-repeat:no-repeat;
